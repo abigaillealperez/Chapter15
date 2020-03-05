@@ -3,3 +3,6 @@ C:\Users\Owner\Desktop\01ALP\00003MODULE\Chapter15\Ch15Ex01\Ch15Ex01\obj\Debug\M
 C:\Users\Owner\Desktop\01ALP\00003MODULE\Chapter15\Ch15Ex01\Ch15Ex01\obj\Debug\App.g.cs
 C:\Users\Owner\Desktop\01ALP\00003MODULE\Chapter15\Ch15Ex01\Ch15Ex01\obj\Debug\Ch15Ex01_MarkupCompile.cache
 C:\Users\Owner\Desktop\01ALP\00003MODULE\Chapter15\Ch15Ex01\Ch15Ex01\obj\Debug\Ch15Ex01_MarkupCompile.lref
+C:\Users\Programming6\Documents\GitHub\Chapter15\Ch15Ex01\Ch15Ex01\obj\Debug\Ch15Ex01.csprojAssemblyReference.cache
+C:\Users\Programming6\Documents\GitHub\Chapter15\Ch15Ex01\Ch15Ex01\obj\Debug\App.g.cs
+C:\Users\Programming6\Documents\GitHub\Chapter15\Ch15Ex01\Ch15Ex01\obj\Debug\Ch15Ex01_MarkupCompile.cache
