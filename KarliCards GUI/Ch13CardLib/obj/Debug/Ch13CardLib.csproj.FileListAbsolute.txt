@@ -1,0 +1,4 @@
+C:\01ALP\00000 3 MODULE\KarliCards GUI\Ch13CardLib\bin\Debug\Ch13CardLib.dll
+C:\01ALP\00000 3 MODULE\KarliCards GUI\Ch13CardLib\bin\Debug\Ch13CardLib.pdb
+C:\01ALP\00000 3 MODULE\KarliCards GUI\Ch13CardLib\obj\Debug\Ch13CardLib.dll
+C:\01ALP\00000 3 MODULE\KarliCards GUI\Ch13CardLib\obj\Debug\Ch13CardLib.pdb
